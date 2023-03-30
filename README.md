@@ -1,1 +1,3 @@
 # Painter
+
+![Screenshot](screenshot.png)
